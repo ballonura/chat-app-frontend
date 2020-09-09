@@ -1,0 +1,65 @@
+[
+  {
+    "user_id": 213,
+    "user_name": "phillip torff",
+    "user_image": "phillip_torff",
+    "user_state": "away",
+    "last_message_id": 1254,
+    "last_message": "Thank you Phillip!",
+    "unread_messages": true
+  },
+  {
+    "user_id": 4,
+    "user_name": "ballon ura",
+    "user_image": "ballon_ura",
+    "user_state": "working",
+    "last_message_id": 1254,
+    "last_message": "Thanks Ballon",
+    "unread_messages": false
+  },
+  {
+    "user_id": 5334,
+    "user_name": "abdurrahman blevins",
+    "user_image": "ballon_ura",
+    "user_state": "working",
+    "last_message_id": 1254,
+    "last_message": "Thanks Ballon",
+    "unread_messages": false
+  },
+  {
+    "user_id": 689,
+    "user_name": "clare parry",
+    "user_image": "ballon_ura",
+    "user_state": "working",
+    "last_message_id": 1254,
+    "last_message": "Thanks Ballon",
+    "unread_messages": false
+  },
+  {
+    "user_id": 14,
+    "user_name": "abid heath",
+    "user_image": "ballon_ura",
+    "user_state": "working",
+    "last_message_id": 1254,
+    "last_message": "Thanks Ballon",
+    "unread_messages": false
+  },
+  {
+    "user_id": 7262,
+    "user_name": "yusef irving",
+    "user_image": "ballon_ura",
+    "user_state": "working",
+    "last_message_id": 1254,
+    "last_message": "Thanks Ballon",
+    "unread_messages": false
+  },
+  {
+    "user_id": 756,
+    "user_name": "hassan woodward",
+    "user_image": "ballon_ura",
+    "user_state": "working",
+    "last_message_id": 1254,
+    "last_message": "Thanks Ballon",
+    "unread_messages": false
+  }
+]

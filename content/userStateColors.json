@@ -1,0 +1,14 @@
+[
+  {
+    "state": "active",
+    "color": "green-100"
+  },
+  {
+    "state": "working",
+    "color": "yellow-100"
+  },
+  {
+    "state": "away",
+    "color": "red-100"
+  }
+]
